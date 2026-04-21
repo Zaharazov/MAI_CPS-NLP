@@ -1,6 +1,7 @@
 import requests
 
 def send(text_request):
+    """Отправляет запрос в Ollama и возвращает ответ модели."""
     url = "http://localhost:11434/api/generate"
     data = {
         "model": "qwen2.5:0.5b",
