@@ -20,6 +20,9 @@
 4. Отчет инференса
 
 ### Инструкция к установке и запуску:
+1. Скачайте ollama с официального сайта - https://ollama.com/download
+2. В приложении ollama скачайте модель "qwen2.5:0.5b"
+<img width="494" height="540" alt="image" src="https://github.com/user-attachments/assets/dbe9e5e5-7c9c-42d4-a348-57c0b3264d04" />
 
 
 ### Отчет инференса:
