@@ -22,12 +22,15 @@
 ### Инструкция к установке и запуску:
 1. Скачайте ollama с официального сайта - https://ollama.com/download
 
-2. В приложении ollama скачайте модель "qwen2.5:0.5b"
-<img width="494" height="540" alt="image" src="https://github.com/user-attachments/assets/dbe9e5e5-7c9c-42d4-a348-57c0b3264d04" />
+2. Запустите сервер через `ollama serve` (в отдельном терминале)
 
-3. Установите библиотеку `requests` через `pip install requests`
+3. Установите модель с помощью `ollama pull qwen2.5:0.5b`
 
-4. Запустите [скрипт](main.py) в папке, где располагается файл (например, через `python main.py`)
+4. Установите библиотеку `requests` через `pip install requests`
+
+5. Запустите [скрипт](main.py) через `python main.py`
+
+6. Будут последовательно выведены результаты запросов к модели
 
 ### Отчет инференса:
 [Отчет в формате pdf](inference_report.pdf)
