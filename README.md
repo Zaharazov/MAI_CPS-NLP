@@ -23,7 +23,7 @@
 1. Скачайте ollama с официального сайта - https://ollama.com/download
 2. В приложении ollama скачайте модель "qwen2.5:0.5b"
 <img width="494" height="540" alt="image" src="https://github.com/user-attachments/assets/dbe9e5e5-7c9c-42d4-a348-57c0b3264d04" />
-
+3. Запустите [скрипт](main.py) в папке, где располагается файл (например, через python main.py)
 
 ### Отчет инференса:
 [Отчет в формате pdf](inference_report.pdf)
