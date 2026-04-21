@@ -33,6 +33,3 @@
 [Отчет в формате pdf](inference_report.pdf)
 
 [Отчет в формате word](inference_report.docx)
-
-### Анализ результатов:
-
